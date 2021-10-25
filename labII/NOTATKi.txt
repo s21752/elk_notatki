@@ -1,0 +1,10 @@
+mamy mozliwosc ustanowienia charakterystki AC na podstawie kilku charakterystyk TRANS
+
+
+PRACA DOMOWA 
+1. wyznaczyc AC na podstawie TRANS, nalozyc jedno na drugie, jakis tam blad
+
+2. 'pobawic sie' ukladem wzmacniacza operacyjnego (pozmieniac wartosci R1, Rf oraz CG1)
+
+
+
